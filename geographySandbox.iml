@@ -32,10 +32,36 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: de.westnordost:osmapi:4.0" level="project" />
+    <orderEntry type="library" name="Maven: de.westnordost:osmapi-core:2.0" level="project" />
+    <orderEntry type="library" name="Maven: oauth.signpost:signpost-core:2.1.1" level="project" />
+    <orderEntry type="library" name="Maven: xmlpull:xmlpull:1.1.3.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: net.sf.kxml:kxml2:2.3.0" level="project" />
+    <orderEntry type="library" name="Maven: de.westnordost:osmapi-changesets:2.0" level="project" />
+    <orderEntry type="library" name="Maven: de.westnordost:osmapi-map:2.0" level="project" />
+    <orderEntry type="library" name="Maven: de.westnordost:osmapi-notes:2.0" level="project" />
+    <orderEntry type="library" name="Maven: de.westnordost:osmapi-traces:2.0" level="project" />
+    <orderEntry type="library" name="Maven: de.westnordost:osmapi-user:2.0" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.10" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.5.10" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.10" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.10" level="project" />
+    <orderEntry type="library" name="Maven: org.redundent:kotlin-xml-builder:1.7.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.commons:commons-lang3:3.5" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-kotlin:2.13.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.5.30" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.13.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.woodstox:stax2-api:4.2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.woodstox:woodstox-core:6.2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.gitlab.mvysny.konsume-xml:konsume-xml:1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: javax.xml.bind:jaxb-api:2.3.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: javax.activation:javax.activation-api:1.2.0" level="project" />
   </component>
 </module>
